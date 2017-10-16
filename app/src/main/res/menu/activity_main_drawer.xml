@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Categories">
+    <group android:checkableBehavior="single">
+
+
+        <item
+
+            android:title="Accessories" >
+            <!--<menu>
+                <Group>
+                <item
+                    android:id="@+id/watch"
+                    android:title="Watch"/>
+                <item
+                    android:id="@+id/bracelet"
+                    android:title="Bracelet"/>
+                <item
+                    android:id="@+id/ring"
+                    android:title="Rinf"/>
+                <item
+                    android:id="@+id/chain"
+                    android:title="Chain"/>
+                <item
+                    android:id="@+id/wallclock"
+                    android:title="Wall Clock"/>
+                <item
+                    android:id="@+id/perfume"
+                    android:title="Perfume"/>
+                <item
+                    android:id="@+id/sunglasses"
+                    android:title="Sunglasses"/>
+                </Group>
+            </menu>-->
+        </item>
+        <item
+            android:id="@+id/photoframe"
+            android:title="Photoframe" />
+        <item
+            android:id="@+id/lamp"
+            android:title="Lamp" />
+        <item
+            android:id="@+id/showpieces"
+            android:title="Show Pieces" />
+        <item
+            android:id="@+id/cards"
+            android:title="Cards" />
+        <item
+            android:id="@+id/toys"
+            android:title="Toys" />
+        <item
+            android:id="@+id/artsandcrafts"
+            android:title="Arts and Crafts" />
+        <item
+            android:id="@+id/mugs"
+            android:title="Mugs" />
+    </group>
+</item>
+</menu>
